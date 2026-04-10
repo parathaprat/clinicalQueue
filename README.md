@@ -78,7 +78,7 @@ npm run lint
 
 ## Live deployment
 
-**Production URL:**
+**Production URL:** https://clinical-queue.vercel.app/
 
 ---
 
