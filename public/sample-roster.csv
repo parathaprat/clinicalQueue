@@ -1,0 +1,7 @@
+id,name,apptDate,priorNoShows,priorAppts,distanceMiles,insurance
+1,Maria Garcia,2026-04-22,3,7,12,Medicare Advantage
+2,James Thompson,2026-04-07,0,4,2,Medi-Cal
+3,Robert Kim,2026-04-25,2,5,18,Commercial
+4,Angela Torres,2026-04-09,1,3,7,Medi-Cal
+5,David Nguyen,2026-04-28,4,6,22,Medicare Advantage
+6,Patricia Okafor,2026-04-11,0,9,4,Commercial
